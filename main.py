@@ -1,3 +1,4 @@
 x = 32
 y = 78
-addition = x + y
+s = 90
+addition = x + y + s
