@@ -1,4 +1,5 @@
 x = 32
 y = 78
 s = 90
-addition = x + y + s
+z = 115
+addition = x + y + z + s
