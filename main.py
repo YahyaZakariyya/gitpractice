@@ -4,6 +4,7 @@ s = 90
 z = 115
 
 def addition():
-  return x + y + z + s
+  total_sum =  x + y + z + s
+  return total_sum
 
 addition()
