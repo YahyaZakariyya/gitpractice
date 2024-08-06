@@ -7,4 +7,8 @@ def addition():
   total_sum =  x + y + z + s
   return total_sum
 
+def calculate_average():
+  return int((x + y + s + z) / 4)
+
 print(addition())
+print(calculate_average())
