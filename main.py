@@ -7,4 +7,4 @@ def addition():
   total_sum =  x + y + z + s
   return total_sum
 
-addition()
+print(addition())
