@@ -6,4 +6,4 @@ z = 115
 def addition():
   return x + y + z + s
 
-addition()
+print(addition())
