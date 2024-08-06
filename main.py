@@ -12,3 +12,6 @@ def calculate_average():
 
 print(addition())
 print(calculate_average())
+
+def calculate_result():
+  return addition()
